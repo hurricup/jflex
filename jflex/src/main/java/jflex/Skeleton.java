@@ -10,8 +10,8 @@ package jflex;
 
 import java.io.*;
 import java.net.URL;
-import java.util.List;
 import java.util.ArrayList;
+import java.util.List;
 
 
 /**
@@ -33,7 +33,7 @@ import java.util.ArrayList;
 public class Skeleton {
   
   /** location of default skeleton */
-  static final private String DEFAULT_LOC = "jflex/skeleton.default"; //$NON-NLS-1$
+  static final private String DEFAULT_LOC = "jflex/idea-flex.skeleton"; //$NON-NLS-1$
   
   /** expected number of sections in the skeleton file */
   static final private int size = 21;
